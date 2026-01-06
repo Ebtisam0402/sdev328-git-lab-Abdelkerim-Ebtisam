@@ -43,6 +43,11 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    Coding feels like a puzzle at play,
+    Debugging leads the hidden way.
+    When errors fade and logic’s done,
+    That’s when coding becomes real fun.
 `;
 
 console.log(poem);
